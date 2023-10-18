@@ -1,0 +1,6 @@
+przykladowy
+plik 
+tekstowy
+w 
+nano
+:)
